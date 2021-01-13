@@ -41,4 +41,4 @@ To add a new project to all timesheets, simply click the corresponding button in
 
 <img src="Screenshots/add%20and%20delete%20projects%20from%20list.png" width="500" >
 
-When adding or deleting projects, the change is made in both the company timesheet and Jobs list.xlsx. Employee timesheets then refer to Jobs list.xlsx to get the list. This allows the jobs list to easily be shared with all employees with giving them access to the company timesheet.
+When adding or deleting projects, the change is made in both the company timesheet and Jobs list.xlsx. Employee timesheets then refer to Jobs list.xlsx to get the list. This allows the jobs list to easily be shared with all employees without giving them access to the company timesheet.
