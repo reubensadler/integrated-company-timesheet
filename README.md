@@ -15,4 +15,6 @@ Feature overview:
 ### Instructions
 #### Employee timesheet
 
-When a new person joins the company, first create an timesheet for them, entering their full name into the details sheet. Then share with them their timesheet and the jobs list.
+When a new person joins the company, first create an timesheet for them, entering their full name into the details sheet. Then share with them their timesheet and the jobs list. In the company timesheet, go to the New employee sheet and click Create new employee sheet. Enter their name exactly as entered into their timesheet, and they're good to go.
+
+
